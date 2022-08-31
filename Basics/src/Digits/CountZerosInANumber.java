@@ -6,21 +6,21 @@ public class CountZerosInANumber {
         System.out.println(count(30210004));
     }
 
-    static int count(int n) {
-        return helper(n, 0);
+    static int count(int num) {
+        return helper(num, 0);
     }
 
     // special pattern, how to pass a value to above calls
-    private static int helper(int n, int c) {
-        if (n == 0) {
-            return c;
+    private static int helper(int num, int countNoOfZeros) {
+        if (countNoOfZeros == 0) {
+            return countNoOfZeros;
         }
 
-        int rem = n % 10;
+        int rem = num % 10;
         if (rem == 0) {
-            return helper(n / 10, c + 1);
+            return helper(num / 10, countNoOfZeros + 1);
         }
-        return helper(n / 10, c);
+        return helper(num / 10, countNoOfZeros);
     }
 
 }

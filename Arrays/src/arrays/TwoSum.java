@@ -9,8 +9,8 @@ public class TwoSum {
 
     public static void main(String[] args) {
 
-        int[] nums = {1, 3, 5, 6, 9};
-        int target = 9;
+        int[] nums = {1, 2, 4, 8, 9, 7};
+        int target = 10;
         System.out.println(Arrays.toString(twoSum(nums, target)));
     }
 

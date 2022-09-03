@@ -9,25 +9,6 @@ public class PrintDigitsInTheOrderOfNumber {
         printDigitsWay2(n);
     }
 
-    public static void printDigitsWay1(int n) {
-        int power = 1;
-        int temp = n;
-        while (temp >= 10) {
-            temp /= 10;
-            power *= 10;
-        }
-
-        temp = n;
-        while (power != 0) {
-            int digit = temp / power;
-            System.out.println(digit);
-
-            temp = temp % power;
-            power = power / 10;
-        }
-
-    }
-
     public static void printDigitsWay2(int n) {
         int nod = 0;
         int number = n;

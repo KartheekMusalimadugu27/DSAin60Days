@@ -3,12 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays2D/Arrays2D.iml" filepath="$PROJECT_DIR$/Arrays2D/Arrays2D.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSAin60Days.iml" filepath="$PROJECT_DIR$/.idea/DSAin60Days.iml" />
       <module fileurl="file://$PROJECT_DIR$/Integers/Integers.iml" filepath="$PROJECT_DIR$/Integers/Integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterviewFAQs/InterviewFAQs.iml" filepath="$PROJECT_DIR$/InterviewFAQs/InterviewFAQs.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/SlidingWindow/SlidingWindow.iml" filepath="$PROJECT_DIR$/SlidingWindow/SlidingWindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
